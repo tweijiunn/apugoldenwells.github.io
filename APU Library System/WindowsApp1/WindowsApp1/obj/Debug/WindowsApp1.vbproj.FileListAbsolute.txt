@@ -1,0 +1,93 @@
+C:\Users\admin\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\admin\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\admin\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\admin\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\admin\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\admin\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\admin\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\admin\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\admin\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\admin\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\admin\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+F:\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+F:\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+F:\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+F:\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+F:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+F:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+F:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+F:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+F:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+F:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+F:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+F:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+F:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+F:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+E:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+E:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+E:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+G:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+G:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+G:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+G:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+G:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+G:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+G:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+G:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+G:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+G:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+G:\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+G:\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+G:\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+G:\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\admin\Desktop\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\admin\Desktop\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\admin\Desktop\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\admin\Desktop\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\admin\Desktop\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\admin\Desktop\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\admin\Desktop\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\admin\Desktop\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\admin\Desktop\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmLibraryStaffs.resources
+C:\Users\admin\Desktop\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmLSLI.resources
+C:\Users\admin\Desktop\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmLSCI.resources
+C:\Users\admin\Desktop\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmAdmin.resources
+C:\Users\admin\Desktop\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmLSAR.resources
+C:\Users\admin\Desktop\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmLSReport.resources
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmLibraryStaffs.resources
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmLSLI.resources
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmLSCI.resources
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmLSReport.resources
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmAdmin.resources
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmLSAR.resources
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CopyComplete
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Jozhua Ten\Downloads\LSCIS\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
